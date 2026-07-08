@@ -4,8 +4,9 @@ channels:
   - bioconda
   - nodefaults
 dependencies:
-  - jupyter
-  - nglview<=4.0
+  - jupyterlab=3.6
+  - ipywidgets=7
+  - nglview
   - simpletraj
   - rich
   - pandas
