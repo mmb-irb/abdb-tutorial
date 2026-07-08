@@ -9,4 +9,3 @@ dependencies:
   - simpletraj
   - rich
   - pandas
-  - qgrid
