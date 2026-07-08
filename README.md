@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmb-irb/abdb-tutorial/HEAD?urlpath=%2Fdoc%2Ftree%2FAB-DB_tutorial.ipynb)
+
 # AB-DB Tutorial
 
 A Jupyter Notebook tutorial for finding, downloading, visualizing, and retrieving analysis results from the **[AB-DB](https://mmb.irbbarcelona.org/ABDB/)** database of antibiotic ligand MD simulations and QM data.
