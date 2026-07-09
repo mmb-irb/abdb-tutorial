@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmb-irb/abdb-tutorial/HEAD?urlpath=%2Fdoc%2Ftree%2FAB-DB_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmb-irb/abdb-tutorial/blob/main/AB-DB_tutorial.ipynb)
 
 # AB-DB Tutorial
 
